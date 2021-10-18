@@ -1,0 +1,2 @@
+float_to_str: !!str 6.66
+str_to_int: !!int "888"

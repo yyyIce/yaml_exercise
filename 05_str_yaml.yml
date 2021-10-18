@@ -1,0 +1,28 @@
+str: hello
+quotation_str: "Hello, world!"
+quotation_str: 'hi,\nyaml'
+double_quotation_str: "hi,\nyaml"
+escape_character_str: 'user''s QoE'
+multi_line_str: firstline
+  secondline
+  thirdline
+remain_line_break: |
+  Foo
+  bar
+  test
+fold_line_break: >
+  Foo
+  bar
+  test
+remain_end_line_break: |+
+  Foo
+  bar
+  test
+fold_end_line_break: |-
+  Foo
+  bar
+  test
+html_content: |  
+  <p>    
+    This is a paragraph.  
+  </p>

@@ -1,0 +1,17 @@
+---
+text: Hello, Yaml!
+date: 2021-10-13
+...
+---
+name: Talent
+sex: female
+age: 16
+hobby: 
+- swim
+- draw
+- delicious food
+favorite food: [chocolate, ice cream]
+family:
+  father: Li
+  Mather: Liu
+...

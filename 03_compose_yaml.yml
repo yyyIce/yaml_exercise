@@ -1,0 +1,17 @@
+shop: GoodShopping
+address: BJ
+goods:
+  Food:
+  - sell_time: "AM 08:30"
+    food01: potato
+    food02: pork
+  Fruits:
+  - sell_time: "AM 09:00"
+  - fruit01: orange
+    price: 3.50
+  - fruit02: banana
+    price: 3.00
+  Clothes:
+  - sell_time: "AM 09:30"
+  - clothe01
+  - clothe02

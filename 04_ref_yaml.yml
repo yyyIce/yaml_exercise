@@ -1,0 +1,11 @@
+defaults: &defaults_content
+  adapter:  postgres
+  host:     localhost
+
+development:
+  database: myapp_development
+  <<: *defaults_content
+
+test:
+  database: myapp_test
+  <<: *defaults_content
